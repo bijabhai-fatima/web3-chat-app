@@ -18,17 +18,12 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## Screenshots Of Results
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![1](https://github.com/bijabhai-fatima/web3-chat-app-frontend/assets/92461731/cd4fe727-fb6f-4fa4-a047-f361f3844564)
+![2](https://github.com/bijabhai-fatima/web3-chat-app-frontend/assets/92461731/d4d3b188-eaa8-4312-92d4-3a15c8324f45)
+![3](https://github.com/bijabhai-fatima/web3-chat-app-frontend/assets/92461731/c359b986-b475-4bdb-a33b-25197ea0b58f) 
+![4](https://github.com/bijabhai-fatima/web3-chat-app-frontend/assets/92461731/9507dc6d-ce97-47cb-8c79-4a6ba14cb4bb)
+![5](https://github.com/bijabhai-fatima/web3-chat-app-frontend/assets/92461731/e102b17f-4525-4ad9-8f2d-420c38b5bdf3)
+![6](https://github.com/bijabhai-fatima/web3-chat-app-frontend/assets/92461731/bd6e9db2-a9b5-4c76-ba8e-96f825445afa)
+![7](https://github.com/bijabhai-fatima/web3-chat-app-frontend/assets/92461731/71da5710-dd1a-4132-9284-9ba16ed8f2bd)
